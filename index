@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Inicial</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Página Inicial</a></li>
+                <li><a href="sobre.html">Sobre Mim</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Bem-vindo ao meu site!</h1>
+        <p>Olá! Este é o meu site de apresentação. Navegue pelas páginas para saber mais sobre mim e entrar em contato.</p>
+    </main>
+
+    <footer>
+        <p>Este é um trabalho da disciplina de Desenvolvimento Web Básico. Site desenvolvido por Hanrri Franco.</p>
+    </footer>
+</body>
+</html>
