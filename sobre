@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Mim</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Página Inicial</a></li>
+                <li><a href="sobre.html">Sobre Mim</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="sobre">
+            <img src="foto.jpg" alt="Foto de Hanrri Franco" class="foto-perfil">
+            <div class="descricao">
+                <h1>Sobre Mim</h1>
+                <p>Olá! Eu sou Hanrri Franco, aluno do 2º semestre de Engenharia de Software. Estou empolgado para a matéria de Desenvolvimento Web e este site é parte do meu trabalho para a disciplina.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Este é um trabalho da disciplina de Desenvolvimento Web Básico. Site desenvolvido por Hanrri Franco.</p>
+    </footer>
+</body>
+</html>
